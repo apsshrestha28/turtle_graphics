@@ -1,4 +1,4 @@
-# turtle graphics
+# Turtle Graphics
 
 Description  : A graphics image created when turtle follows the steps and direction.
 
